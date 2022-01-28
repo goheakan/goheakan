@@ -1,7 +1,7 @@
   
   
   
-  ### Welcome ```${tonNomEstIci.promis}```, I'm Goheakan
+  # Welcome, I'm Goheakan
 
 ### I am self-taught, I try to bring to gather the best of the code I find to make it a perfect balance and offer it to all.
 
